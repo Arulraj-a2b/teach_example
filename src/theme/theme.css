@@ -11,4 +11,7 @@
   --color-gray-5: #767676;
   --color-gray-6: #f0f0f6;
   --color-gray-7: #e4e6eb;
+
+  --color-error: red;
+  --color-success: #34cc65;
 }

@@ -1,5 +1,4 @@
 import classNames from "classnames/bind";
-import { ReactNode } from "react";
 import styles from "./flex.module.css";
 
 const cx = classNames.bind(styles);
