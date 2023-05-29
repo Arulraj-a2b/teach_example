@@ -1,13 +1,13 @@
-import Button from "../../uikit/Button/Button";
 import Flex from "../../uikit/Flex/Flex";
-import Text from "../../uikit/Text/Text";
+import MyServices from "./MyServices";
 import ProfileCard from "./ProfileCard";
 import styles from "./homescreen.module.css";
 
 const HomeScreen = () => {
   return (
-    <Flex>
+    <Flex className={styles.overAll}>
       <ProfileCard />
+      <MyServices />
     </Flex>
   );
 };

@@ -1,0 +1,6 @@
+.common {
+  background-color: var(--color-white);
+  border-radius: 10px;
+  padding: 20px;
+  width: 100%;
+}
